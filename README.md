@@ -33,8 +33,14 @@
 
 ✨ *“Libraries are not just about books—they are about connecting people with knowledge, culture, and opportunity.”*
 
+---
 
-<h3>🌦️ My Favorite Climate & Weather Datasets</h3>
+<h3>🌦️ Exploring Datasets</h3>
+
+<p>Explore more dataset at the <a href="https://github.com/awesomedata/awesome-public-datasets" target="_blank">Awesome Public Datasets – Public Data Repository</a></p>
+
+
+## 🌦️ My Favorite Climate & Weather Datasets
 -->
 <p>My Favorite Climate Dataset Repo, Please see this: 
 <a href="https://github.com/awesomedata/apd-core/blob/master/core/Climate%2BWeather/WorldClim.yml">
