@@ -52,3 +52,14 @@ WorldClim – Global Climate Data
 A high-resolution global climate dataset for research on temperature, precipitation, and environmental modeling.
 <a href="https://github.com/awesomedata/apd-core/blob/master/core/Climate%2BWeather/WorldClim.yml">Click Here</a>
 </p>
+
+---
+
+## Explore GitHub's Topics
+
+The Github's topics that connected to open digital library and preservation communities.  
+You can explore here:
+
+- [Libraries Hacked](https://github.com/LibrariesHacked) – exploring open data and innovation in public libraries.  
+- [WikiTeam](https://github.com/WikiTeam) – dedicated to archiving and preserving wikis for long-term access.
+
