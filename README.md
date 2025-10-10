@@ -47,12 +47,6 @@
 WorldClim – Global Climate Data
 </a></p>
 
-
-<p>1️⃣ <strong>WorldClim – Global Climate Data:</strong> 
-A high-resolution global climate dataset for research on temperature, precipitation, and environmental modeling.
-<a href="https://github.com/awesomedata/apd-core/blob/master/core/Climate%2BWeather/WorldClim.yml">Click Here</a>
-</p>
-
 ---
 
 ## Explore GitHub's Topics
